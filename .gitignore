@@ -1,0 +1,26 @@
+# Build
+build/
+out/
+
+# Fabric
+run/
+
+# Compiled
+*.class
+
+# Logs
+*.log
+
+# OS
+.DS_Store
+Thumbs.db
+
+# IDE
+.idea/
+*.iml
+
+# Archives
+*.zip
+
+# Gradle cache
+.gradle/

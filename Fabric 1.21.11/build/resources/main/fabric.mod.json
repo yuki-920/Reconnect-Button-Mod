@@ -1,0 +1,24 @@
+{
+  "schemaVersion": 1,
+  "id": "reconnectbuttonmod",
+  "version": "1.0.0",
+  "name": "Reconnect Button Mod",
+  "description": "Add a Reconnect button to the Disconnect screen.",
+  "authors": ["yuki920"],
+  "contact": {},
+  "license": "MIT",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.yuki920.reconnectbuttonmod.ReconnectButtonMod"
+    ]
+  },
+  "mixins": [
+    "reconnectbuttonmod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.1",
+    "minecraft": "~1.21.11",
+    "java": ">=21"
+  }
+}

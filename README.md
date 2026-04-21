@@ -24,4 +24,4 @@ Built-in languages:
 
 Want to add your language? Contributions are welcome on [GitHub](https://github.com/yuki-920/Reconnect-Button-Mod/)!
 
-Japanese: [Here](https://github.com/yuki-920/Reconnect-Button-Mod/blob/master/README_ja.md)
+Japanese: [Here](./README.ja.md)
